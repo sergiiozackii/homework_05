@@ -1,4 +1,4 @@
-package _01;
+package _04;
 
 public class DoWhileSeven {
     public static void main(String []args){
