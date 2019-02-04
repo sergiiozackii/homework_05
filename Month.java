@@ -1,5 +1,5 @@
 //Программа по переданному числу выводит на консоль название месяца
-package _01.If;
+package _04;
 class Month{
     public static void main(String args[]){
         int month=1;
