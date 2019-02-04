@@ -39,6 +39,7 @@ public class Month2 {
                 break;
             case 12:
                 System.out.println("Декабрь");
+                break;      
                 default:
                     System.out.println("Такого месяца не существует");
 
