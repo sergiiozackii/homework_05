@@ -1,4 +1,4 @@
-package _01;
+package _04;
 
 public class DigitForSeven {
     public static void main(String[]args){
