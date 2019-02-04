@@ -1,4 +1,4 @@
-package _01;
+package _04;
 //Программа по переданному числу выводит на консоль название месяца
 public class Month2 {
     public static void main(String []args){
